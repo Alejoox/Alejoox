@@ -1,9 +1,10 @@
 ## Hi there 👋
 
+:colombia: Colombia
 :boy: Técnico en desarrollo de aplicaciones
 :computer: futuro Ing en Sistemas
-:music: Amante de la música
-:usa: Aprendiendo Inglés
+:headphones: Amante de la música
+:us: Aprendiendo Inglés
 
 # Aprendiendo 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
