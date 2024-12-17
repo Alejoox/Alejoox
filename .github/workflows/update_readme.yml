@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       - uses: Readme-Workflows/recent-activity@v2.4.1
-          env:
+        env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Update README with recent activity
         uses: Alejoox/Alejoox-munevardavidalejandro@gmail.com # Reemplaza con tu información
