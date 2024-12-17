@@ -16,9 +16,8 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 ### :zap: My recent activity
-<!--Start_section:activity-->
-
-<!--End_section:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 
 # Contacto
