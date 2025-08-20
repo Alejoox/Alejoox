@@ -2,9 +2,9 @@
 
 :colombia: Colombia
 :boy: Técnico en desarrollo de aplicaciones
-:computer: futuro Ing en Sistemas
+:computer: Estudiando Ingeniería en sistemas y computación
 :headphones: Amante de la música
-:us: Aprendiendo Inglés
+:us: Aprendiendo Inglés y Português 
 
 # Aprendiendo 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
